@@ -1,9 +1,10 @@
-### Hello Pranav this side
-A *newbie* programmer on a journey to call himself a *developer*
+### Pranav this side
+A *fresher* on his journey to become a *Full-Stack developer*
 
-- 🔥 I know C++
-- 🌱 I’m currently practising DSA
+- 🔥 C++
+- DSA
+- OOps
+- FrontEnd - HTML5, CSS(Vanilla, Tailwind), JS(JQuery, ReactJS library)
+- BackEnd - MySQL
 
-
-My view on life - 
-> If its meant to be, its meant to be
+- Learning In Progress - Python, Flask
