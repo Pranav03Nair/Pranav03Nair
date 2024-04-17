@@ -5,7 +5,7 @@ A *fresher* on his journey to become a *Full-Stack developer*
 - C++
 - DSA
 - OOPs
-- FrontEnd - HTML5, CSS(Vanilla, Tailwind), JS(JQuery, ReactJS library)
+- FrontEnd - HTML5, CSS (Vanilla, Tailwind), JS( JQuery, ReactJS library)
 - BackEnd - MySQL
 
 #### Learning In Progress
