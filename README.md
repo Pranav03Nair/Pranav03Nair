@@ -4,6 +4,7 @@ Hi! I'm a fresher on my journey to become a Full-Stack Developer. I am actively 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/work-pranav-nair/)
+
 Portfolio - https://pranav-nair.netlify.app/
 
 # 💻 Tech Stack:
